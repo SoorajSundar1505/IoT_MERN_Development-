@@ -39,7 +39,7 @@ Arduino code is available in BlinkLed.ino
 Step 4: Run the Application
 
 After setting up the Arduino, start the backend server and frontend server: node server.js and npm run dev
-The web app will be available on http://localhost:<PORT>. Use the interface to control the LED.
+The web app will be available on http://localhost:PORT. Use the interface to control the LED.
 
 Usage
 
