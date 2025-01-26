@@ -15,7 +15,7 @@ Technologies Used
         Express.js: Server-side framework for handling API requests.
         React: Frontend framework to build the user interface.
         Node.js: Backend environment to run the server and manage the connection between the web app and Arduino.
-    Socket.io: For real-time communication between the server and web app.
+    Axios to send user input to backend
 
 Installation
 Step 1: Clone the repository
